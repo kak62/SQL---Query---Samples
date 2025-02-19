@@ -1,4 +1,4 @@
-# SQL Portfolio for Business Analytics
+# SQL Repo for Business Analytics
 
 This repository contains a series of SQL queries designed to tackle various business problems while maintaining data privacy. Each query is anonymized to focus on trends and insights rather than individual data points.
 
